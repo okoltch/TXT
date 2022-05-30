@@ -1,0 +1,5 @@
+Full Name: Vasya Pupkin
+age: 29
+pets: 0
+salary :100000
+
