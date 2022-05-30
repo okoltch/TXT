@@ -1,0 +1,6 @@
+movie: Titanic
+tvShow": Money Heist
+favorite Food: Sushi
+favorite Season: Summer
+country: Italy
+
